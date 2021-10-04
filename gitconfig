@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = b00778451@essec.edu
+	name = Michel Tabet
